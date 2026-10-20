@@ -7,3 +7,4 @@ def search_contact(name):
     print(f"Ищем контакт: {name}")
     # Здесь будет логика поиска
     return None
+ 
